@@ -1,0 +1,6 @@
+gen = with_previous(['bee', 'geek', 'stepik', 'python'])
+
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))

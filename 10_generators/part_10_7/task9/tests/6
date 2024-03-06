@@ -1,0 +1,5 @@
+data = 'g'
+
+iterator = stop_on(data, 'g')
+
+print(*iterator)

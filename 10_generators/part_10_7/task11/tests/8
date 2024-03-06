@@ -1,0 +1,3 @@
+data = ['bee', 'geek', 'stepik', 'python']
+
+print(*pairwise(data))

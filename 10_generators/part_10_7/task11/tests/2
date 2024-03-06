@@ -1,0 +1,3 @@
+iterator = iter('stepik')
+
+print(*pairwise(iterator))

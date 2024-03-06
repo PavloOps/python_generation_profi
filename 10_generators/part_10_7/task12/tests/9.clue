@@ -1,0 +1,1 @@
+(None, 'bee', 'geek') ('bee', 'geek', 'stepik') ('geek', 'stepik', 'python') ('stepik', 'python', None)

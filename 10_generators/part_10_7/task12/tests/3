@@ -1,0 +1,6 @@
+iterator = around(iter('beegeek'))
+
+print(next(iterator))
+print(next(iterator))
+print(next(iterator))
+print(next(iterator))

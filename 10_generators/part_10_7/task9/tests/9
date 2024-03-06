@@ -1,0 +1,12 @@
+data = iter('beegeek')
+
+iterator = stop_on(data, 'g')
+
+print(next(iterator))
+print(next(iterator))
+print(next(iterator))
+
+try:
+    print(next(iterator))
+except StopIteration:
+    print('Error')

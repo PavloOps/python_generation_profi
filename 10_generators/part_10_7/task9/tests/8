@@ -1,0 +1,5 @@
+data = iter('qweretqwewerqweqwerewr')
+
+iterator = stop_on(data, 'H')
+
+print(*iterator)

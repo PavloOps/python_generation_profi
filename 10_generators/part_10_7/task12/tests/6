@@ -1,0 +1,5 @@
+data = map(str.upper, 'y')
+
+iterator = around(data)
+
+print(next(iterator))

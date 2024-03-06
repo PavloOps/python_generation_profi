@@ -1,0 +1,1 @@
+print(*with_previous(map(abs, range(-100, 100))))

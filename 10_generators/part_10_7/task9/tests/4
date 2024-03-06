@@ -1,0 +1,5 @@
+data = map(str.upper, 'jhfjgshgkjfdjsgriyteryowpqerkelfsldfmnmnbmvcnmlgqweootiyoeytkldjhmvxcmkasd')
+
+iterator = stop_on(data, 'o')
+
+print(*iterator)

@@ -1,0 +1,6 @@
+lines = nonempty_lines('module10/part_10_7/task6/file1.txt')
+
+print(next(lines))
+print(next(lines))
+print(next(lines))
+print(next(lines))

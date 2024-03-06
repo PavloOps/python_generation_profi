@@ -1,0 +1,3 @@
+data = 'JSKFJSDIFjejfkdjKJFIOJfkgkSDJGIEJGsklGDnvmmcvlwoqeriwjndSKF'
+
+print(*unique(data))

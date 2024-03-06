@@ -1,0 +1,3 @@
+iterator = iter('beegeek')
+
+print(*stop_on(iterator, 'a'))
