@@ -1,0 +1,4 @@
+numbers = factorials(2)
+
+print(next(numbers))
+print(next(numbers))

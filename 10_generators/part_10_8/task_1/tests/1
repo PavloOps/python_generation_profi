@@ -1,0 +1,5 @@
+func = lambda x: x
+values = tabulate(func)
+
+print(next(values))
+print(next(values))

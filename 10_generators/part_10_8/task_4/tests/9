@@ -1,0 +1,4 @@
+numbers = iter([1, 2, 3])
+nones = iter([None, None, None, None])
+
+print(*roundrobin(numbers, nones))

@@ -1,0 +1,7 @@
+def func(n):
+    return 'beegeek' * n
+
+values = tabulate(func)
+
+for _ in range(10):
+    print(next(values))

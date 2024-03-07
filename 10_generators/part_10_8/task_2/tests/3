@@ -1,0 +1,3 @@
+numbers = factorials(100)
+
+print(*numbers)

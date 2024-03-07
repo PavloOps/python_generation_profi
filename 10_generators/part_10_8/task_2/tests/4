@@ -1,0 +1,6 @@
+numbers = factorials(1001)
+
+for _ in range(1000):
+    next(numbers)
+
+print(next(numbers))

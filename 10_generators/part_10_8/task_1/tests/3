@@ -1,0 +1,5 @@
+func = lambda x: x ** 2
+values = tabulate(func)
+
+for _ in range(100):
+    print(next(values))

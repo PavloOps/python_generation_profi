@@ -1,0 +1,9 @@
+alnum = alnum_sequence()
+
+for _ in range(100_000):
+    next(alnum)
+
+print(next(alnum))
+print(next(alnum))
+print(next(alnum))
+print(next(alnum))

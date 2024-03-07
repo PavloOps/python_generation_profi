@@ -1,0 +1,8 @@
+numbers = roundrobin(map(abs, range(-10, 10)))
+
+print(next(numbers))
+print(next(numbers))
+print(next(numbers))
+print(next(numbers))
+print(next(numbers))
+print(next(numbers))

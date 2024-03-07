@@ -1,0 +1,6 @@
+alnum = alnum_sequence()
+
+print(next(alnum))
+print(next(alnum))
+print(next(alnum))
+print(next(alnum))
