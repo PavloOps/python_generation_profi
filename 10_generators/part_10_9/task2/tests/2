@@ -1,0 +1,3 @@
+iterator = iter('bbbbeebee')
+
+print(*drop_this(iterator, 'b'))

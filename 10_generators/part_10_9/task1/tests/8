@@ -1,0 +1,3 @@
+iterator = iter([-1])
+
+print(list(drop_while_negative(iterator)))

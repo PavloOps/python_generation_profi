@@ -1,0 +1,1 @@
+print(*take(range(10), 5))

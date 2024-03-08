@@ -1,0 +1,4 @@
+iterator = take(iter('beegeek'), 2)
+
+print(next(iterator))
+print(next(iterator))

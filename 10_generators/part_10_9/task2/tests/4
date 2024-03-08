@@ -1,0 +1,8 @@
+letters = drop_this(iter('stepik'), 'g')
+
+print(next(letters))
+print(next(letters))
+print(next(letters))
+print(next(letters))
+print(next(letters))
+print(next(letters))

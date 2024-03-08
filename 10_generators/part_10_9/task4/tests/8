@@ -1,0 +1,3 @@
+iterator = iter([0])
+
+print(*take(iterator, 100))

@@ -1,0 +1,3 @@
+iterator = iter('s')
+
+print(*take(iterator, 1))
